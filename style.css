@@ -1,0 +1,21 @@
+/*
+ Theme Name:   OnePress Transparent
+ Theme URI:    https://www.famethemes.com/themes/onepress
+ Description:  OnePress child theme with transparent style
+ Author:       FameThemes
+ Author URI:   https://www.famethemes.com
+ Template:     onepress
+ Version:      1.0.0
+ Tags:         one-column, two-columns, left-sidebar, right-sidebar, fluid-layout, responsive-layout, custom-menu, featured-images, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blue, light
+ Text Domain:  onepress-transparent
+*/
+
+/* Add your custom css below
+-------------------------------------------------------------- */
+.site-header {
+	background: transparent;
+	border-bottom: none;
+}
+.site-content {
+	padding-top: 0px !important;
+}
